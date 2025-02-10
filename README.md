@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @FayssalBenMousssa  
+- 👀 I’m interested in software development, data analysis, machine learning, and DevOps.  
+- 🌱 I’m currently learning Kubernetes, Spring Boot 3, and advanced Linux server management.  
+- 💞️ I’m looking to collaborate on open-source projects related to microservices, AI-driven analytics, and full-stack web and mobile development.  
+- 📫 How to reach me:  
+  - 📧 Email: Fayssal.note@gmail.com  
+  - 💼 LinkedIn: [linkedin.com/in/fayssalbm/](https://www.linkedin.com/in/fayssalbm/)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love building scalable systems and experimenting with AI for business optimization. Also, I'm a football fan and enjoy discussing strategies!  
