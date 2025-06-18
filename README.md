@@ -5,5 +5,4 @@
 - 📫 How to reach me:  
   - 📧 Email: Fayssal.note@gmail.com  
   - 💼 LinkedIn: [linkedin.com/in/fayssalbm/](https://www.linkedin.com/in/fayssalbm/)  
-- 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love building scalable systems and experimenting with AI for business optimization. Also, I'm a football fan and enjoy discussing strategies!  
